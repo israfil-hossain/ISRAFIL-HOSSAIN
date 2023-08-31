@@ -45,17 +45,17 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 - &nbsp;
-- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)
  
 
 <br/>
 
 <a href="https://github.com/ISRAFIL-HOSSAIN/ISRAFIL-HOSSAIN">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -63,10 +63,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://israfil-hossain-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Israfilhossain.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/israfil-hossain-7b4467174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-IsrafilHossain-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://medium.com/@israfilhossain166091"><img alt="Medium" src="https://img.shields.io/badge/Medium-IsrafilHossain-black?style=flat-square&logo=Medium"></a>
-<a href="mailto:israfil166091@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Israfilhossain@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://israfil-hossain-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Israfilhossain.com-blue?style=for-the-badge&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/israfil-hossain-7b4467174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-IsrafilHossain-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://medium.com/@israfilhossain166091"><img alt="Medium" src="https://img.shields.io/badge/Medium-IsrafilHossain-black?style=for-the-badge&logo=Medium"></a>
+<a href="mailto:israfil166091@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Israfilhossain@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508]([https://github.com/AVS1508](https://github.com/ISRAFIL-HOSSAIN/ISRAFIL-HOSSAIN")https://github.com/ISRAFIL-HOSSAIN/ISRAFIL-HOSSAIN")
