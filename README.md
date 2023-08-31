@@ -71,10 +71,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="">
 <a href="https://israfil-hossain-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Israfilhossain.com-blue?style=for-the-badge&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/israfil-hossain-7b4467174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-IsrafilHossain-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://medium.com/@israfilhossain166091"><img alt="Medium" src="https://img.shields.io/badge/Medium-IsrafilHossain-black?style=for-the-badge&logo=Medium"></a>
+<a href="https://medium.com/@israfilhossain166091"><img alt="Medium" src="https://img.shields.io/badge/Medium-IsrafilHossain-blue?style=for-the-badge&logo=Medium"></a>
 <a href="mailto:israfil166091@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Israfilhossain@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
