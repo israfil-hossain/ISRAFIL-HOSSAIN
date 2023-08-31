@@ -47,6 +47,7 @@
 <p align="center">
 <a href="https://israfil-hossain-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Israfilhossain.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/israfil-hossain-7b4467174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-IsrafilHossain-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://medium.com/@israfilhossain166091"> <img alt="medium" src="img.shields.io/badge/-@IsrafilHossain-03a57a?style=flat-square&labelColor=000000&logo=Medium) /> </a>
 <a href="mailto:israfil166091@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Israfilhossain@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
