@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Complete BSC. in Computer Science at AMERICAN INTERNATIONAL UNIVERSITY.
+- 🎓 &nbsp; Complete BSC. in Computer Science at AMERICAN INTERNATIONAL UNIVERSITY Bangladesh.
 - 💼 &nbsp; Working as a Software Engineer at TechnoNext.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
