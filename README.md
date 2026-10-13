@@ -9,7 +9,9 @@
 - 💼 &nbsp; Working as a Software Engineer at TechnoNext.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
-- 🌐 &nbsp; Working now as a MERN Stack, My working Technologies is Next Js, React Js, Node Js, Nest Js. The database uses MongoDB. Any Style Component I can Use. 
+- 🌐 &nbsp; Working now as a MERN Stack, My working Technologies is Next Js, React Js, Node Js, Nest Js. The database uses MongoDB. Any Style Component I can Use.
+
+- My Email : <h2>Israfil166091@gmail.com</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
